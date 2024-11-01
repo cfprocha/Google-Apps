@@ -11,7 +11,7 @@
 9. **Não preencha o campo "Para"**, sim, deixe ele vazio, pois o mesmo será preenchido pela automação;
 10. Feche o rascunho para salvá-lo;
 11. Agora, volte para a planilha do Google Sheets, vá em "**Extensões**" > "**Apps Script**";
-12. No editor que se abre, apague qualquer código existente e cole o script de [email](https://github.com/cfprocha/codigos/tree/main/VBA).
+12. No editor que se abre, apague qualquer código existente e cole o script de [email](https://github.com/cfprocha/Google-Apps/blob/main/Google-Sheets/codigo.js).
 13. Clique no ícone de disquete (💾) e dê um nome ao projeto, por exemplo, "Mala Direta";
 14. Vá em "Executar" > "sendEmails";
 15. Uma janela de autorização aparecerá. Clique em "Revisar permissões";
